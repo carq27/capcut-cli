@@ -40,7 +40,7 @@ Una etapa estará lista cuando su resultado se haya creado y pueda revisarse. Ac
 
 ## Decisiones pendientes
 
-Se preguntó por idioma y formato, voz, tipo de material, versión de CapCut y repositorio. Aún no hay respuestas registradas, por eso las preferencias correspondientes quedan por definir. Esta carpeta está conectada al repositorio GitHub `renezander030/capcut-cli`.
+Se preguntó por idioma y formato, voz, tipo de material, versión de CapCut y repositorio. Aún no hay respuestas registradas, por eso las preferencias correspondientes quedan por definir. Esta primera versión está publicada en la rama `codex/video-editor-setup` del fork `carq27/capcut-cli`, una copia del repositorio original `renezander030/capcut-cli`.
 
 ## Alcance
 
