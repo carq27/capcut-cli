@@ -1,0 +1,12 @@
+{
+  "videos": [
+    {
+      "nombre": "prueba",
+      "etapa_actual": 1,
+      "nombre_etapa": "Guion",
+      "estado": "pendiente",
+      "siguiente_accion": "Pegar el guion escrito por ti en videos/prueba/guion/"
+    }
+  ]
+}
+

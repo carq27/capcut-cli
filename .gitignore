@@ -7,3 +7,6 @@ python/dist/
 python/build/
 python/*.egg-info/
 __pycache__/
+
+# Local service credentials
+config/keys.env
